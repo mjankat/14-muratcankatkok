@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "14-sedatkurtuldu",
-    "slug": "14-sedatkurtuldu",
+    "name": "14-muratcankatkok",
+    "slug": "14-muratcankatkok",
+    "owner":"sm002",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
